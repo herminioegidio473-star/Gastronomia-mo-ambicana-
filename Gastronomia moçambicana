@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gastronomia Moçambicana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Restaurante Gastronomia Moçambicana</h1>
+        <nav>
+            <a href="index.html">Início</a>
+            <a href="menu.html">Menu</a>
+            <a href="reservas.html">Reservas</a>
+            <a href="historia.html">História</a>
+            <a href="equipe.html">Equipe</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Bem-vindo ao nosso restaurante!</h2>
+        <p>Oferecemos o melhor da culinária tradicional moçambicana, com pratos típicos preparados com ingredientes frescos e muito sabor.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Mo%C3%A7ambique_Food.jpg" alt="Comida Moçambicana" width="60%" style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-top:20px;">
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Gastronomia Moçambicana. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu - Gastronomia Moçambicana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Nosso Menu</h1>
+        <nav>
+            <a href="index.html">Início</a>
+            <a href="menu.html">Menu</a>
+            <a href="reservas.html">Reservas</a>
+            <a href="historia.html">História</a>
+            <a href="equipe.html">Equipe</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Pratos Principais</h2>
+        <ul>
+            <li>Matapa — 300 MZN</li>
+            <li>Frango à Zambeziana — 450 MZN</li>
+            <li>Camarão grelhado — 600 MZN</li>
+            <li>Caril de amendoim — 350 MZN</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Gastronomia Moçambicana</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reservas - Gastronomia Moçambicana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Faça a sua reserva</h1>
+        <nav>
+            <a href="index.html">Início</a>
+            <a href="menu.html">Menu</a>
+            <a href="reservas.html">Reservas</a>
+            <a href="historia.html">História</a>
+            <a href="equipe.html">Equipe</a>
+        </nav>
+    </header>
+
+    <section>
+        <form>
+            <label>Nome:</label>
+            <input type="text" required><br>
+
+            <label>Data:</label>
+            <input type="date" required><br>
+
+            <label>Hora:</label>
+            <input type="time" required><br>
+
+            <label>Número de pessoas:</label>
+            <input type="number" min="1" required><br>
+
+            <button type="submit">Enviar Reserva</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Gastronomia Moçambicana</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>História - Gastronomia Moçambicana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>História e Missão</h1>
+        <nav>
+            <a href="index.html">Início</a>
+            <a href="menu.html">Menu</a>
+            <a href="reservas.html">Reservas</a>
+            <a href="historia.html">História</a>
+            <a href="equipe.html">Equipe</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Nossa História</h2>
+        <p>
+            O restaurante <strong>Gastronomia Moçambicana</strong> nasceu em 2023, na cidade de Nampula, com o sonho de valorizar e promover 
+            a rica culinária tradicional do nosso país. Inspirado nas receitas passadas de geração em geração, o restaurante 
+            oferece pratos típicos que representam a diversidade cultural de Moçambique, desde o sul até o norte.
+        </p>
+        <p>
+            Tudo começou com um pequeno grupo de amantes da cozinha moçambicana que decidiu criar um espaço onde as famílias pudessem 
+            reunir-se para saborear pratos autênticos, preparados com ingredientes locais e muito carinho.
+        </p>
+
+        <h2>Missão do Estabelecimento</h2>
+        <p>
+            A nossa missão é <strong>preservar e divulgar a gastronomia tradicional moçambicana</strong>, oferecendo uma experiência 
+            culinária que combina sabor, cultura e hospitalidade. Procuramos servir refeições de qualidade, promover produtos locais 
+            e valorizar o talento dos nossos cozinheiros.
+        </p>
+        <p>
+            No <em>Gastronomia Moçambicana</em>, acreditamos que cada prato conta uma história — a história do nosso povo, das nossas raízes 
+            e do nosso amor pela comida moçambicana.
+        </p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Gastronomia Moçambicana. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equipe - Gastronomia Moçambicana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Nossa Equipe</h1>
+        <nav>
+            <a href="index.html">Início</a>
+            <a href="menu.html">Menu</a>
+            <a href="reservas.html">Reservas</a>
+            <a href="historia.html">História</a>
+            <a href="equipe.html">Equipe</a>
+        </nav>
+    </header>
+
+    <section class="equipe">
+        <h2>Funcionários</h2>
+        <ul>
+            <li>Leonel Cassimo — Chefe de Cozinha</li>
+            <li>Merina Suleimane — Subchefe</li>
+            <li>Ruth José Caetano — Gerente</li>
+            <li>Tomé António — Supervisor</li>
+            <li>Dário Rodolfo Geraldo — Garçonete</li>
+            <li>Aldícia Chabane — Garçonete</li>
+            <li>Egídio Herminio — Recepcionista</li>
+            <li>Arlinda Jacob — Auxiliar de limpeza da cozinha</li>
+            <li>Quionice Razaque — Auxiliar da limpeza da cozinha</li>
+            <li>Costa Jamal — Auxiliar da limpeza da cozinha</li>
+            <li>Vania Zito — Auxiliar da cozinha</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Gastronomia Moçambicana. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nome dos Elementos - Gastronomia Moçambicana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Nome dos Elementos do Grupo</h1>
+        <nav>
+            <a href="index.html">Início</a>
+            <a href="menu.html">Menu</a>
+            <a href="reservas.html">Reservas</a>
+            <a href="historia.html">História</a>
+            <a href="equipe.html">Equipe</a>
+            <a href="nome-dos-elementos.html">Elementos do Grupo</a>
+        </nav>
+    </header>
+
+    <section class="elementos-grupo">
+        <h2>Elementos do Nosso Grupo</h2>
+        
+        <div class="lista-elementos">
+            <h3>Membros do Grupo de Desenvolvimento:</h3>
+            <ul>
+                <li>Leonel Cassimo</li>
+                <li>Merina Suleimane</li>
+                <li>Ruth José Caetano</li>
+                <li>Tomé António</li>
+                <li>Dário Rodolfo Geraldo</li>
+                <li>Aldícia Chabane</li>
+                <li>Egídio Herminio</li>
+                <li>Arlinda Jacob</li>
+                <li>Quionice Razaque</li>
+                <li>Costa Jamal</li>
+                <li>Vania Zito</li>
+            </ul>
+        </div>
+
+        <div class="info-projeto">
+            <h3>Informações do Projeto</h3>
+            <p><strong>Projeto:</strong> Website Gastronomia Moçambicana</p>
+            <p><strong>Disciplina:</strong> [TICs]</p>
+            <p><strong>Instituição:</strong> [Escola Secundaria de Monapo]</p>
+            <p><strong>Ano:</strong> 2025</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Gastronomia Moçambicana. Desenvolvido pelo nosso grupo.</p>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal Completo - Gastronomia Moçambicana</title>
+    <style>
+        .abas { display: flex; margin-bottom: 20px; }
+        .aba { padding: 10px 20px; background: #f0f0f0; margin-right: 5px; cursor: pointer; }
+        .aba.ativa { background: #d4a574; color: white; }
+        .conteudo-aba { display: none; padding: 20px; border: 1px solid #ddd; }
+        .conteudo-aba.ativa { display: block; }
+        iframe { width: 100%; height: 600px; border: none; }
+    </style>
+</head>
+<body>
+    <header>
+
